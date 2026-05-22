@@ -130,7 +130,7 @@ display: flex;
     order: 10;
   }
 
-   #paragraph5 {
+   #paragraph6 {
     font-family: 'Roboto Slab';
     font-size: large;
     justify-content: center;
@@ -138,6 +138,7 @@ display: flex;
     text-align: center;
     order: 13;
    }
+   
 
 
 /*topbar css*/
