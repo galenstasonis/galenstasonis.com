@@ -130,6 +130,15 @@ display: flex;
     order: 10;
   }
 
+   #paragraph5 {
+    font-family: 'Roboto Slab';
+    font-size: large;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    order: 12;
+   }
+
 
 /*topbar css*/
 #topbar {
@@ -316,5 +325,10 @@ body:not(.dark) .overlay {
 }
 #header3 {
   order: 9;
+  text-align: center;
+}
+
+#header4 {
+  order: 11;
   text-align: center;
 }
