@@ -51,3 +51,12 @@ remote_theme: piharpi/jekyll-klise
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+author:            
+  name: galen
+  bio: "ghfcrdty"
+  avatar: /assets/img/avatar.jpg
+  email: galenstasonis@gmail.com
+  github: galenstasonis
+mode: dark
+timezone: America/New_York
+lang: en-US
