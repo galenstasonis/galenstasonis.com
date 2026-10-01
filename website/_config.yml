@@ -29,6 +29,9 @@ url: "https://galenstasonis.com" # the base hostname & protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: piharpi/jekyll-klise
 
 # Exclude from processing.
 # The following items will not be processed, by default.
