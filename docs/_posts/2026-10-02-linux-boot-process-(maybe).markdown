@@ -24,3 +24,5 @@ first, systemd will call getty once for each virtual terminal (the ones you swit
 most systems use a graphical environment and a display manager (a graphical way to login) is started on one of the virtual terminals instead of a console.
 that is basically the entire boot process simplified for linux, but it is actually really cool if you go deeper into it, and all the marvelous work people have just done for free??
 anyways this basically just came out of my head and a little bit of referencing from the [arch wiki](https://wiki.archlinux.org/title/Arch_boot_process)
+
+![Tux](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
