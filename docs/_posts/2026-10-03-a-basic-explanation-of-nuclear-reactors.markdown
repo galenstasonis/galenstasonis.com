@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "a basic explanation of nuclear reactors"
-date:   2026-10-02 16:55:00 -0400
+date:   2026-10-03 20:45:00 -0400
 categories: nuclear
 ---
 
